@@ -1,82 +1,69 @@
-<img align="center" src="https://github.com/user-attachments/assets/fcc6f0b2-3329-4384-b921-ec0065ef51c7" alt="Welcome GIF" />
+<!-- Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fcc6f0b2-3329-4384-b921-ec0065ef51c7" width="100%" />
+</p>
 
-# 👋 Hi, I'm **Anish M Bhat**
-### 🚀 AI/ML Engineer | Generative AI | Computer Vision | Agentic AI Systems
+<h1 align="center">🚀 Anish M Bhat — AI/ML Engineer</h1>
 
-I build intelligent systems that merge **LLMs, Vision Models, RAG Pipelines, and Edge AI** to solve real-world problems.  
-My work spans **AI agents, embedded AI (Raspberry Pi / Jetson), multimodal models, Android integration, and full-stack AI deployment.**
-
-I enjoy turning complex ideas into **production-ready AI pipelines**, optimizing models for **edge + cloud**, and designing robust **end-to-end architectures** that actually scale.
-
----
-
-## 🔥 What I Do
-- 🧠 Build **Generative AI + LLM** systems (fine-tuning, quantization, RAG, tool-use, LangChain)
-- 👁️‍🗨️ Develop **Computer Vision pipelines** (YOLO, VLMs, detection, captioning)
-- 🤖 Create **AI Agents** using Docker, n8n, Firebase, Google Cloud, and Pinecone
-- 📱 Deploy **edge AI** solutions on Raspberry Pi & Android
-- 🔗 Work with APIs, automation workflows, and production integrations
-- 🛠️ Develop full-stack systems using **React, Node.js, Firebase**
-
----
-
-## 🌱 Currently Working On
-🔥 Building multimodal **Agentic AI** pipelines  
-⚡ Improving model performance on **edge devices**  
-🧩 Exploring **LLM reasoning + tool-use** for automation  
-📦 Dockerizing advanced AI workflows  
-🚀 Preparing for high-impact AI engineering roles  
-
----
-
-## 📬 Reach Me At
-📧 **bhata744@gmail.com**  
-🔗 **LinkedIn:** https://linkedin.com/in/anishbhat00  
-🐙 **GitHub:** https://github.com/Cobot69  
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🧠 **AI / Machine Learning**
-`Transformers` • `LLMs` • `RAG` • `LangChain` • `n8n` • `Hugging Face`  
-`PyTorch` • `TensorFlow` • `OpenAI / Gemini APIs` • `Model Quantization`  
-`Computer Vision` (YOLO, BLIP, VLMs)
-
-### 💻 **Programming**
-`Python` • `C++` • `JavaScript` • `HTML` • `CSS`
-
-### ⚙️ **DevOps & Deployment**
-`Docker` • `Kubernetes` • `CI/CD` • `Git` • `Linux`
-
-### 📱 **Edge / Mobile**
-`Raspberry Pi` • `Jetson Nano` • `Android Studio`
-
-### 🗄️ **Databases**
-`Firebase` • `SQL` • `NoSQL` • `Pinecone`
-
----
-
-## 📊 GitHub Stats (Optional, If You Want)
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-45%25-blue"/>
-  <img src="https://img.shields.io/badge/C++-15%25-darkblue"/>
-  <img src="https://img.shields.io/badge/C-15%25-grey"/>
-  <img src="https://img.shields.io/badge/HTML-10%25-orange"/>
-  <img src="https://img.shields.io/badge/CSS-10%25-purple"/>
-  <img src="https://img.shields.io/badge/JavaScript-5%25-yellow"/>
+<p align="center">
+  <strong>LLMs • Agentic Systems • Computer Vision • Edge AI • Scalable AI Pipelines</strong>
 </p>
 
 ---
 
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/anishbhat00" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
+## 🌌 About Me
+I am an **AI/ML Engineer** who loves building systems where **models, automation, and engineering intersect**.  
+I work across **Generative AI, Computer Vision, LLM fine-tuning, RAG systems, multimodal pipelines, and edge deployment** using Docker, n8n, GCP, Firebase, and real-time inference frameworks.
+
+I enjoy turning complex workflows into **clean, reliable, production-ready systems**.
+
+---
+
+## 🔥 What I Build
+- 🤖 **LLM-powered Agentic Systems** (multi-tool workflows, automated research, structured reasoning)
+- 📚 **RAG Engines** using embeddings, Pinecone, Gemini, custom indexing
+- 👁️ **Computer Vision pipelines** (YOLO, VLMs, BLIP) for real-world use cases
+- 📱 **Edge/Embedded AI** on Raspberry Pi, Jetson, Android (TFLite, INT8, optimization)
+- 🌐 **Full-stack AI applications** with Firebase, Node.js, React, REST APIs
+- 🐳 **ML Ops / Deployment** using Docker, CI/CD, and scalable cloud setups
+
+---
+
+## ⚡ Tech Stack (Core)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,cpp,git,docker,linux,firebase,gcp,react,nodejs" height="45" />
 </p>
 
 ---
 
-<img align="center" src="https://github.com/user-attachments/assets/e1ba47e0-7972-4073-bed3-3284ef1d64cd" alt="Thanks GIF" />
+## 🧠 Featured Projects
+### 🔹 **Agentic Research AI System**
+Autonomous pipeline using **SerpAPI + ArXiv + LLMs + n8n + Docker**  
+Extracts citations, parses PDFs, and sends structured insights automatically.
+
+### 🔹 **Medical RAG Engine**
+Full-scale RAG system using **Gemini embeddings + Pinecone + GCP**  
+Designed for extracting patient medical insights for research workflows.
+
+### 🔹 **Vision-Language Scene Understanding**
+BLIP-based VLM pipeline for visual Q/A + scene captions (82% accuracy).
+
+### 🔹 **Embedded ADAS System (Raspberry Pi)**
+YOLO + lane detection + ultrasonic fusion  
+6 FPS real-time inference, 210ms latency, 65% model compression.
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/anishbhat00"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
+  <a href="https://github.com/Cobot69"><img src="https://skillicons.dev/icons?i=github" height="40"></a>
+  <a href="mailto:bhata744@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1ba47e0-7972-4073-bed3-3284ef1d64cd" width="100%" />
+</p>
 
